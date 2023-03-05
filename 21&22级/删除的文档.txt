@@ -1,0 +1,17 @@
+1. 一人一个房间组成一套房子（音频放置）
+	静态音效	UE4 √ 	Wwise √ 	Reaper √ 
+2. 一人两个游戏动画视频（配音）
+	动态音效	UE4 × 	Wwise × 	Reaper √
+3. 一人一块户外场景（环境音&时间&地点）
+	动态音效	UE4 × 	Wwise √ 	Reaper √ 
+4. 蓝图一些功能实现和基础逻辑
+
+游戏音效 - Audio Designer / Sound Designer
+游戏配乐 - Audio Composer
+音频TA - Tech Audio
+策划
+
+协作软件 - GitHub Desktop
+
+
+添加的内容会如同此行显示
