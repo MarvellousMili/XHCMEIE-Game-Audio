@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>G:\WWISEENGINE\Wwise 2021.1.8.7831\Cube\Wwise-101\Lesson 1\Lesson01\</ProjectRoot>
+		<SourceFilesRoot>G:\WWISEENGINE\Wwise 2021.1.8.7831\Cube\Wwise-101\Lesson 1\Lesson01\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>G:\WWISEENGINE\Wwise 2021.1.8.7831\Cube\cube\soundbanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>G:\WWISEENGINE\Wwise 2021.1.8.7831\Cube\Wwise-101\Lesson 1\Lesson01\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="218756005">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2390793602" Name="Fire_IceGem_Player" ObjectPath="\Events\Default Work Unit\Fire_IceGem_Player">
+					<IncludedMemoryFiles>
+						<File Id="1042002876" Language="SFX">
+							<ShortName>IceGem_Blast.wav</ShortName>
+							<Path>SFX\IceGem_Blast_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
