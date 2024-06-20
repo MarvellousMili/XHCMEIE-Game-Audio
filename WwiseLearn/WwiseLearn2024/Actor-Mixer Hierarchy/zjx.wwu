@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2D28F926-EDE5-491A-8652-B1E75F29DC48}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="zjx" ID="{2D28F926-EDE5-491A-8652-B1E75F29DC48}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="footstep" ID="{EA99F531-4176-4797-86E9-DB85CC699BA8}" ShortID="300004953">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="footstep" ID="{654D13C8-9D44-4BA7-B847-E7AEA1AFD870}" ShortID="990915557">
+							<PropertyList>
+								<Property Name="OverrideEarlyReflections" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_1_Human_Foot_Step_Winter" ID="{EA88CDF6-7179-4090-B693-F9D7FA8A9ACC}" ShortID="775195285">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_1_Human_Foot_Step_Winter" ID="{67551086-9CAF-4623-82A5-5DE63AD2E790}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_1_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="473897741"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_1_Human_Foot_Step_Winter" ID="{67551086-9CAF-4623-82A5-5DE63AD2E790}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_9_Human_Foot_Step_Winter" ID="{DF486ABE-9683-4EBF-A13D-42153AC90CD6}" ShortID="6178772">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_9_Human_Foot_Step_Winter" ID="{B6C72B9B-1D35-48B4-B4F2-79D1C7B92A17}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_9_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="508821658"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_9_Human_Foot_Step_Winter" ID="{B6C72B9B-1D35-48B4-B4F2-79D1C7B92A17}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_7_Human_Foot_Step_Winter" ID="{0712FC97-F484-40D3-ACA9-659A731B5F41}" ShortID="154036082">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_7_Human_Foot_Step_Winter" ID="{05147083-F146-4645-96A5-AEB0BB89DBB3}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_7_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="804095253"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_7_Human_Foot_Step_Winter" ID="{05147083-F146-4645-96A5-AEB0BB89DBB3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_2_Human_Foot_Step_Winter" ID="{422955F8-521B-4C8A-BFAD-50AB8CC8489A}" ShortID="361039405">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_2_Human_Foot_Step_Winter" ID="{55B6321D-0069-4DF0-8527-4EA3F8FF2CEF}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_2_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1067709323"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_2_Human_Foot_Step_Winter" ID="{55B6321D-0069-4DF0-8527-4EA3F8FF2CEF}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_5_Human_Foot_Step_Winter" ID="{80BA35BD-1191-44F9-B8C4-30894606988B}" ShortID="230673486">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_5_Human_Foot_Step_Winter" ID="{7D9F0A91-ED6E-4163-8D25-2227D245E4A3}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_5_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="687769251"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_5_Human_Foot_Step_Winter" ID="{7D9F0A91-ED6E-4163-8D25-2227D245E4A3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_8_Human_Foot_Step_Winter" ID="{C769D42B-042C-4891-848F-4A83D472918F}" ShortID="483359712">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_8_Human_Foot_Step_Winter" ID="{24F479FD-D9D2-4395-B7A3-4D67C45BE437}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_8_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="963383069"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_8_Human_Foot_Step_Winter" ID="{24F479FD-D9D2-4395-B7A3-4D67C45BE437}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_6_Human_Foot_Step_Winter" ID="{87CA816F-A0BB-4870-BF5F-580060C42DED}" ShortID="270156712">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_6_Human_Foot_Step_Winter" ID="{D2CCF4FF-EA71-448F-B180-DA7EF13E9756}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_6_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="674963432"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_6_Human_Foot_Step_Winter" ID="{D2CCF4FF-EA71-448F-B180-DA7EF13E9756}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_4_Human_Foot_Step_Winter" ID="{842C4485-E7E8-43C7-B821-CEB0C71C2EA2}" ShortID="1018217732">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_4_Human_Foot_Step_Winter" ID="{2B3D44EB-8359-4D00-A17E-AC4AD30BF991}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_4_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="96175331"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_4_Human_Foot_Step_Winter" ID="{2B3D44EB-8359-4D00-A17E-AC4AD30BF991}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_3_Human_Foot_Step_Winter" ID="{B9A2CBEA-36EE-498E-9502-D87FFF1E7A6A}" ShortID="193567571">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5B0C3692-1CF5-4A9A-9BFD-EBD82E1D0B1A}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{30AFD621-ED8A-4067-9EA3-42AD98E42212}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_3_Human_Foot_Step_Winter" ID="{B02CDF94-E3B8-48FB-AA60-4A909DFEBE18}">
+											<Language>SFX</Language>
+											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_3_Human_Foot_Step_Winter.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="927447692"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ESM_Footstep_on_Rock_or_Ice_with_Debris_3_Human_Foot_Step_Winter" ID="{B02CDF94-E3B8-48FB-AA60-4A909DFEBE18}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+					</ChildrenList>
+					<ObjectLists/>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
