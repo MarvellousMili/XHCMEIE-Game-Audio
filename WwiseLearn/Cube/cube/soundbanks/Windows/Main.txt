@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2390793602	Fire_IceGem_Player			\Default Work Unit\Fire_IceGem_Player	
-
-In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	1042002876	IceGem_Blast	G:\WWISEENGINE\Wwise 2021.1.8.7831\Cube\Wwise-101\Lesson 1\Lesson01\.cache\Windows\SFX\IceGem_Blast_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceGem_Blast		286260
-
