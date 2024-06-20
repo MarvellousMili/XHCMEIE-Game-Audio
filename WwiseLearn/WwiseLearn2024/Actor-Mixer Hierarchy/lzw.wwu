@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E720A550-0E0F-4C47-A63B-6522CD91FB4D}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="lzw" ID="{E720A550-0E0F-4C47-A63B-6522CD91FB4D}" PersistMode="Standalone"/>
+	</AudioObjects>
+</WwiseDocument>
