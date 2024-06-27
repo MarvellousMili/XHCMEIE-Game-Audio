@@ -86,7 +86,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_7_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="804095253"/>
+												<MediaID ID="207906940"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
@@ -109,7 +109,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_2_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="1067709323"/>
+												<MediaID ID="957112650"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
@@ -132,7 +132,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_5_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="687769251"/>
+												<MediaID ID="583784276"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
@@ -155,7 +155,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_8_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="963383069"/>
+												<MediaID ID="667031617"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
@@ -201,7 +201,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_4_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="96175331"/>
+												<MediaID ID="3119457"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
@@ -224,7 +224,7 @@
 											<Language>SFX</Language>
 											<AudioFile>footstep\ESM_Footstep_on_Rock_or_Ice_with_Debris_3_Human_Foot_Step_Winter.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="927447692"/>
+												<MediaID ID="227336578"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
