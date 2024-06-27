@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{F22927A2-A694-4857-8CDA-177E43142729}" SchemaVersion="103">
 	<SoundcasterSessions>
-		<WorkUnit Name="Default Work Unit" ID="{F22927A2-A694-4857-8CDA-177E43142729}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{F22927A2-A694-4857-8CDA-177E43142729}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Footstep" ID="{F6F1A70F-213E-4E1D-B429-A5546D4887BE}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Footstep" ID="{25E9F230-8FD6-40BE-8BD6-E1E6520EF92C}" WorkUnitID="{32422E58-CC8C-4342-A7B4-E9C133B6FD42}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Heartbeat" ID="{AB0E8A8C-24CB-49FF-92DA-28DCF7E7FF4F}">
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>
