@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{D0B5E74B-4AE0-473A-A519-CBE9B956FB5A}" SchemaVersion="103" RootDocumentID="{F22927A2-A694-4857-8CDA-177E43142729}" ParentDocumentID="{F22927A2-A694-4857-8CDA-177E43142729}">
 	<SoundcasterSessions>
-		<WorkUnit Name="lzw" ID="{D0B5E74B-4AE0-473A-A519-CBE9B956FB5A}" OwnerID="{F22927A2-A694-4857-8CDA-177E43142729}" PersistMode="Nested"/>
+		<WorkUnit Name="lzw" ID="{D0B5E74B-4AE0-473A-A519-CBE9B956FB5A}" OwnerID="{F22927A2-A694-4857-8CDA-177E43142729}" PersistMode="Nested">
+			<ChildrenList>
+				<SoundcasterSession Name="foodstop" ID="{461AFB1D-784D-47E1-ABB8-93D6CCB6A055}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="foodstep" ID="{2EAB0DC6-BF66-463C-BF8C-C0DA0F817862}" WorkUnitID="{E720A550-0E0F-4C47-A63B-6522CD91FB4D}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>
