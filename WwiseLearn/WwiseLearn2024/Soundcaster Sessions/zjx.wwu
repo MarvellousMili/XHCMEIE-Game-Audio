@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{47FE0FC3-50F7-45A0-9523-8684602AA103}" SchemaVersion="103">
 	<SoundcasterSessions>
-		<WorkUnit Name="zjx" ID="{47FE0FC3-50F7-45A0-9523-8684602AA103}" PersistMode="Standalone"/>
+		<WorkUnit Name="zjx" ID="{47FE0FC3-50F7-45A0-9523-8684602AA103}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="foodstep" ID="{F22263F7-3CA4-4C9A-AF36-A34060B2DFAD}">
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>
